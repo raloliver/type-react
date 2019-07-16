@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "parcel index.ts --target=node"
+  },
+  "devDependencies": {
+    "typescript": "^3.5.3"
+  }
+}
