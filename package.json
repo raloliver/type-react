@@ -3,6 +3,12 @@
     "start": "parcel index.ts --target=node"
   },
   "devDependencies": {
+    "@types/react": "^16.8.23",
+    "@types/react-dom": "^16.8.4",
     "typescript": "^3.5.3"
+  },
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
   }
 }
